@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/parthbi40128754" target="blank"><img src="https://img.shields.io/twitter/follow/parthbi40128754?logo=twitter&style=for-the-badge" alt="parthbi40128754" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif"/>
-- 🔭 I’m currently working on **Youtube**
+- 🔭 I’m currently working on **Groww**
 
 - 🌱 I’m currently learning **React**
 
