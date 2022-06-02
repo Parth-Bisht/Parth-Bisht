@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif"/>
 - 🔭 Take a look at my Portfolio (https://parthportfolio.netlify.app/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Express**
 
 - 👯 I’m looking to collaborate on **amazon**
 
