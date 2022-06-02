@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
-- 💬 Ask me about **Javascript, HTML, DSA etc**
+- 💬 Ask me about **Javascript, React, HTML, TypeScript, DSA etc**
 
 - 📫 How to reach me **bishtparth795@gmail.com**
 
