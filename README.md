@@ -1,4 +1,4 @@
-<img height="300px" width="100%" src="https://jusmarktech.com/public/a/images/pages/web_development.gif"/>
+<img height="300px" width="100%" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
 <h1 align="center">Hi 👋, I'm Parth Bisht</h1>
 <h3 align="center">I am a self-motivated Full-stack Web developer 🤓 who loves to work in a challenging environment ✨. I love to face new problems and come up with a solution from out of the box 💥. </h3>
 
