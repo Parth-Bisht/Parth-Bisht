@@ -8,9 +8,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif"/>
 
-- 🔭 I’m currently working on **Backend Projects**
+- 🔭 I’m currently building  [creditSensei](https://twitter.com/credsensei?s=11)
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 My Portfolio link [https://parthportfolio.netlify.app/](https://parthportfolio.netlify.app/)
 
